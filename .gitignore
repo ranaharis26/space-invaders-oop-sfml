@@ -1,0 +1,28 @@
+# Build outputs
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile.user
+*.o
+*.obj
+*.exe
+*.dll
+*.bak
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.vcxproj*
+
+# Runtime/generated files
+leaderboard.txt
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
