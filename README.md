@@ -4,11 +4,13 @@ A C++17/SFML arcade shooter inspired by *Space Invaders*, built as an Object-Ori
 
 ## Screenshots
 
-> Add your own screenshots inside the `screenshots/` folder and update these links after uploading them to GitHub.
+| Main Menu | Gameplay |
+|------------|------------|
+| ![](screenshots/menu.png) | ![](screenshots/gameplay.png) |
 
-| Main Menu | Gameplay | Boss Fight | Leaderboard |
-|---|---|---|---|
-| `screenshots/menu.png` | `screenshots/gameplay.png` | `screenshots/boss.png` | `screenshots/leaderboard.png` |
+| Boss Fight | Leaderboard |
+|------------|------------|
+| ![](screenshots/boss.png) | ![](screenshots/leaderboard.png) |
 
 ## Features
 
